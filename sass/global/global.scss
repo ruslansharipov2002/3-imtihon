@@ -1,0 +1,11 @@
+@import url(./global.css);
+@import url(../header/header.css);
+@import url(../main/main.css);
+
+.container{
+    max-width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 145px;
+    padding-right: 145px;  
+}

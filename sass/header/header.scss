@@ -1,0 +1,51 @@
+.section_1{
+    // background-color:#1F2E35;
+    padding-top: 19px;
+
+}
+.content{
+    display: flex;
+}
+header{
+    display: flex;
+    gap: 16px;
+}
+.product{
+    display: flex;
+    padding-right: 237px;
+}
+.product_2{
+    padding-left: 16px;
+    font-size: 30px;
+    margin: 0;
+}
+.ul_text{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+.img_1{
+    width: 40px;
+    height: 36px;
+}
+.pricing{
+    font-size: 16px;
+    // color: #fff;
+}
+.box_2{
+    gap: 24px;
+}
+.btn_sign{
+    background-color: #1F2E35;
+    padding: 10px 25px;
+    color: #fff;
+}
+.btn_sign_up{
+    background-color: #02897A;
+    padding: 10px 25px;
+    color: #fff; 
+
+}
+.img_2{
+    padding-top: 24px;
+}
